@@ -4555,9 +4555,9 @@ textarea.form-control-lg {
 }
 
 .alert-info {
-  --bs-alert-color: #135d7c;
-  --bs-alert-bg: #d2ebf5;
-  --bs-alert-border-color: #bce1f1;
+  --bs-alert-color: #cccccc;
+  --bs-alert-bg: #262626;
+  --bs-alert-border-color: #000000;
 }
 .alert-info .alert-link {
   color: #0f4a63;
